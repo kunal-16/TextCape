@@ -34,7 +34,7 @@ StegCloak is a pure JavaScript steganography module designed in functional progr
 
 <br>
 
-![StegCloak Demo](assets/textcape.gif)
+![TextCape Demo](assets/textcape.gif)
 
 
 
